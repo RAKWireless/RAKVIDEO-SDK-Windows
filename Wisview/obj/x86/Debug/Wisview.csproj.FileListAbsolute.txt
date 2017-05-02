@@ -1,0 +1,38 @@
+C:\Users\qiann\Desktop\SDK完结版\vlc.net\bin\Debug\DialogBox.dll
+C:\Users\qiann\Desktop\SDK完结版\vlc.net\bin\Debug\DialogBox.pdb
+C:\Users\qiann\Desktop\SDK完结版\vlc.net\obj\x86\Debug\Wisview.csproj.GenerateResource.Cache
+C:\Users\qiann\Desktop\SDK完结版\vlc.net\bin\Debug\Wisview.exe.config
+C:\Users\qiann\Desktop\SDK完结版\vlc.net\bin\Debug\Wisview.exe
+C:\Users\qiann\Desktop\SDK完结版\vlc.net\bin\Debug\Wisview.pdb
+C:\Users\qiann\Desktop\SDK完结版\vlc.net\obj\x86\Debug\Wisview.Form1.resources
+C:\Users\qiann\Desktop\SDK完结版\vlc.net\obj\x86\Debug\Wisview.Properties.Resources.resources
+C:\Users\qiann\Desktop\SDK完结版\vlc.net\obj\x86\Debug\Wisview.exe
+C:\Users\qiann\Desktop\SDK完结版\vlc.net\obj\x86\Debug\Wisview.pdb
+D:\fwy资料\RAK播放器开发\SDK完结版\Wisview\bin\Debug\Wisview.exe.config
+D:\fwy资料\RAK播放器开发\SDK完结版\Wisview\obj\x86\Debug\Wisview.exe
+D:\fwy资料\RAK播放器开发\SDK完结版\Wisview\obj\x86\Debug\Wisview.pdb
+D:\fwy资料\RAK播放器开发\SDK完结版\Wisview\bin\Debug\Wisview.exe
+D:\fwy资料\RAK播放器开发\SDK完结版\Wisview\bin\Debug\Wisview.pdb
+D:\fwy资料\RAK播放器开发\SDK完结版\Wisview\bin\Debug\DialogBox.dll
+D:\fwy资料\RAK播放器开发\SDK完结版\Wisview\bin\Debug\DialogBox.pdb
+D:\fwy资料\RAK播放器开发\SDK完结版\Wisview\obj\x86\Debug\Wisview.csprojResolveAssemblyReference.cache
+D:\fwy资料\RAK播放器开发\SDK完结版\Wisview\obj\x86\Debug\Wisview.Form1.resources
+D:\fwy资料\RAK播放器开发\SDK完结版\Wisview\obj\x86\Debug\Wisview.Properties.Resources.resources
+D:\fwy资料\RAK播放器开发\SDK完结版\Wisview\obj\x86\Debug\Wisview.csproj.GenerateResource.Cache
+C:\Users\qiann\Desktop\SDK完结版\Wisview\bin\Debug\Wisview.exe.config
+C:\Users\qiann\Desktop\SDK完结版\Wisview\obj\x86\Debug\Wisview.exe
+C:\Users\qiann\Desktop\SDK完结版\Wisview\obj\x86\Debug\Wisview.pdb
+C:\Users\qiann\Desktop\SDK完结版\Wisview\bin\Debug\Wisview.exe
+C:\Users\qiann\Desktop\SDK完结版\Wisview\bin\Debug\Wisview.pdb
+C:\Users\qiann\Desktop\SDK完结版\Wisview\bin\Debug\DialogBox.dll
+C:\Users\qiann\Desktop\SDK完结版\Wisview\bin\Debug\DialogBox.pdb
+C:\Users\qiann\Desktop\SDK完结版\Wisview\obj\x86\Debug\Wisview.csprojResolveAssemblyReference.cache
+C:\Users\qiann\Desktop\SDK完结版\Wisview\obj\x86\Debug\Wisview.Form1.resources
+C:\Users\qiann\Desktop\SDK完结版\Wisview\obj\x86\Debug\Wisview.Properties.Resources.resources
+C:\Users\qiann\Desktop\SDK完结版\Wisview\obj\x86\Debug\Wisview.csproj.GenerateResource.Cache
+D:\fwy资料\RAK播放器开发\Wisview for windows code\Wisview\bin\Debug\Wisview.exe.config
+D:\fwy资料\RAK播放器开发\Wisview for windows code\Wisview\obj\x86\Debug\Wisview.exe
+D:\fwy资料\RAK播放器开发\Wisview for windows code\Wisview\obj\x86\Debug\Wisview.pdb
+D:\fwy资料\RAK播放器开发\Wisview for windows code1\Wisview\bin\Debug\Wisview.exe.config
+D:\fwy资料\RAK播放器开发\Wisview for windows code1\Wisview\obj\x86\Debug\Wisview.exe
+D:\fwy资料\RAK播放器开发\Wisview for windows code1\Wisview\obj\x86\Debug\Wisview.pdb
